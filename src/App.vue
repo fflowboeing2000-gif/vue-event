@@ -141,6 +141,7 @@ function findById(id) {
     height: 50px;
 
     width: 100%;
+    border: none;
     border-radius: 10px;
   }
 
