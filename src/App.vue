@@ -77,6 +77,7 @@ function findById(id) {
 
   body {
     margin: 0px;
+    font-family: Helvetica;
   }
 
   .tickets {
